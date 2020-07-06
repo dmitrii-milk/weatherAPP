@@ -1,0 +1,26 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "author": "Kiba Dmitrii",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.26.9"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitrii-milk/weather.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dmitrii-milk/weather/issues"
+  },
+  "homepage": "https://github.com/dmitrii-milk/weather#readme",
+  "description": ""
+}
